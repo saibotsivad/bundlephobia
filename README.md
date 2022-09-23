@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/saibotsivad/bundlephobia/master/client/assets/site-logo.svg" alt="" width="290" height="235" />
+    <img src="https://raw.githubusercontent.com/saibotsivad/bundlephobia/test-svg-changes/client/assets/site-logo.svg" alt="" width="290" height="235" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/npm/v/package-build-stats.svg" />
