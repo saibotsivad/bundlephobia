@@ -4,9 +4,7 @@
      class="github-logo"
 >
    <style>
-        path {
-            fill: #161514;
-        }
+        path { fill: red; }
         @media (prefers-color-scheme: dark) {
             path { fill: white; }
         }
